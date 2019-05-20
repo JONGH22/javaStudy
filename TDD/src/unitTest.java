@@ -14,7 +14,6 @@ class unitTest {
 		assertEquals(fibo(6),8);
 		assertEquals(fibo(30),832040);
 		assertEquals(fibo(31),1346269);
-		assertEquals(fibo(44),1346269);
 	}
 
 	private int fibo(int i) {
